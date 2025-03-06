@@ -4,10 +4,10 @@ class ProductService
         Product.new(id: 2, name: "Producto 2", price: 200),
         Product.new(id: 3, name: "Producto 3", price: 300),
         Product.new(id: 4, name: "Producto 4", price: 400),
-        Product.new(id: 5, name: "Producto 5", price: 500)
-        Product.new(id: 6, name: "Producto 6", price: 600)
-        Product.new(id: 7, name: "Producto 7", price: 700)
-        Product.new(id: 8, name: "Producto 8", price: 800)
+        Product.new(id: 5, name: "Producto 5", price: 500),
+        Product.new(id: 6, name: "Producto 6", price: 600),
+        Product.new(id: 7, name: "Producto 7", price: 700),
+        Product.new(id: 8, name: "Producto 8", price: 800),
         Product.new(id: 9, name: "Producto 9", price: 900)
     ]
 

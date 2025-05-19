@@ -50,4 +50,4 @@ end
 
 gem "active_model_serializers", "~> 0.10.15"
 
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
